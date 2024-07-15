@@ -1,0 +1,43 @@
+body{
+    background-color: pink;
+}
+
+.Firstname{
+    border: 1px rgb(231, 5, 95) solid;
+    border-radius: 5px;
+    width: 124x;
+    height: 24px;
+}
+
+.Password{
+    border: 1px rgb(231, 5, 95) solid;
+    border-radius: 5px;
+    width: 124x;
+    height: 24px;
+}
+
+.Adress{
+   color: rgb(231, 5, 95);
+}
+
+.Feedback{
+    color: rgb(231, 5, 95);
+}
+
+.Design{
+    border: 1px rgb(231, 5, 95) solid;
+    border-radius: 5px;
+}
+
+h1{
+    color: rgb(231, 5, 95); 
+}
+
+.male{
+    color: rgb(231, 5, 95); 
+}
+
+.chexbox{
+    border: 1px pink solid;
+    border-radius: 10px;
+}

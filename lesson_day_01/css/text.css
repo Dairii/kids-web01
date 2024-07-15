@@ -1,0 +1,58 @@
+body{
+    font-family: "Rubik";
+}
+
+h1{
+    color: rgb(120, 197, 255);
+    background-color: aliceblue;
+    text-align: center;
+}
+
+h2{
+    text-shadow: 5px 5px 20px rgb(120, 197, 255);
+    color: rgb(120, 197, 255);
+    background-color: white;
+    font-weight: 400;
+}
+
+h3{
+    color: rgb(120, 197, 255);
+}
+
+h4{
+    color: rgb(120, 197, 255);
+}
+
+h5{
+    color: rgb(120, 197, 255);
+}
+
+h6{
+    color: rgb(120, 197, 255);
+}
+
+p{
+    color: rgb(120, 197, 255);
+    background-color: white;
+    font-weight: 400;
+}
+
+.text{
+    color: rgb(133, 146, 249);
+    background-color: white;
+    font-weight: 400;
+}
+
+#text_id{
+    color: rgb(133, 146, 249);
+    background-color: white;
+    font-weight: 400;
+}
+
+i{
+    color: rgb(120, 197, 255);
+}
+
+b{
+    color: rgb(120, 197, 255);
+}

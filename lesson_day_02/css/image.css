@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(248, 255, 195);
+    background-image: url("../image/background.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.Angarag{
+    width: 200px;
+    padding: 0px 10px 0px 0px;
+}
+
+.Moon{
+    width: 266px;
+    display: block;
+    margin: 0 ;
+}
